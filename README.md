@@ -8,7 +8,9 @@ It is a single HTML file: no install, no server, nothing leaves your browser.
 
 ## Using it
 
-1. Download `TaskSequencer.html` and open it in any modern browser.
+Use it online at **https://afkcodinglol.github.io/pabtasker/**, or run it offline:
+
+1. Download `TaskSequencer.html` (from the latest release or this repository) and open it in any modern browser.
 2. Pick an account type (Ironman, Hardcore ironman or Main, with an optional Pure toggle).
 3. Click goals in the library (quests, diaries, milestones, minigames) or set end-goal levels in the skill panel.
 4. Run **Optimize**, then **Export** and paste the list into your account builder.
